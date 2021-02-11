@@ -1,6 +1,6 @@
 
 function botao () {
-    document.getElementById("agradecimento").innerHTML = "<b>Obrigada por clicar</b>";
+    document.getElementById("agradecimento").innerHTML = "<b>Clique aqui e veja meu perfil no LinkedIn</b>";
 
     //console.log(document.getElementById("agradecimento"));
 }
